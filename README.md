@@ -1,5 +1,5 @@
 <h1 align="left">Hey there, welcome to my profile 👋</h1>
-<p align="left">Full-stack web developer and Mechatronics engineer.
+<p align="left">I'm Farah Qandalaft, Full-stack web developer and Mechatronics engineer.
 
 As a passionate person to learn and try new things, I find what I want in programming and its absolutely unbelievable how many things you can learn and try, so that's why I started my programming journey and became full-stack developer.
 
